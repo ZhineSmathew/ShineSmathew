@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShineSmathew
 - 👀 I’m interested in System Programming in software field to collabrate with New Technology and Developing to ideas
 - 🌱 I’m currently learning New Technology
- 💞️ I’m looking to collaborate on Software field
+- 💞️ I’m looking to collaborate on Software field
 
 
 <!---
